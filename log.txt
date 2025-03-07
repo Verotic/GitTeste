@@ -1,2 +1,28 @@
-Nova alteração
-Alteração no branch nova-feature
+PARTE 1:
+ 4363  git init git-treino\n
+ 4364  clear
+ 4365  cd git-treino
+ 4366  git remote add origin https://github.com/SeuUsuario/git-treino.git\n
+ 4367  cd ..
+ 4368  ls
+ 4369  clear
+ 4370  https://github.com/Verotic/GitTeste.git
+ 4371  git clone https://github.com/Verotic/GitTeste.git
+ 4372  cd GitTeste
+ 4373  git add log.txt\n
+ 4374  git commit -m "Adicionando log.txt"\n
+ 4375  git push origin main\n
+ 4376  clear
+ 4377  echo "Nova alteração" >> log.txt\n
+ 4378  git add log.txt\n
+ 4379  git commit -m "Atualizando log.txt"\n
+ 4380  git push origin main\n
+ 4381  clear
+ 4382  git checkout -b nova-feature\n
+ 4383  echo "Alteração no branch nova-feature" >> log.txt\n
+ 4384  git add log.txt\n
+ 4385  git commit -m "Modificação no branch nova-feature"\n
+ 4386  clear
+ 4387  git push origin nova-feature\n
+
+ PARTE 2:
