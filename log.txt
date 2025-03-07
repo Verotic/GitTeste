@@ -26,4 +26,6 @@ PARTE 1:
  4387  git push origin nova-feature\n
 
  PARTE 2:
-Alteração no main
+git checkout main
+git merge nova-feature
+git push origin mainAlteração no conflito-branch
