@@ -29,3 +29,9 @@ PARTE 1:
 git checkout main
 git merge nova-feature
 git push origin mainAlteração no conflito-branch
+
+
+
+mudanças no meu PR, és muito bommmmmmm
+
+
